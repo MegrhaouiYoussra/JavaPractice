@@ -1,5 +1,13 @@
 # JavaPractice
 
-First Java project using Git and GitHub.
+Simple Java project using Git and GitHub.
 
-This project prints "Hello GitHub".
+## Description
+This project demonstrates a basic Java program that prints:
+
+Hello GitHub
+
+## Technologies
+- Java
+- Git
+- GitHub
